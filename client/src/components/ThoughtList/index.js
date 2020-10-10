@@ -7,6 +7,7 @@ const ThoughtList = ({ thoughts, title }) => {
     }
 
     return (
+        
         <div>
             <h3>{title}</h3>
             {thoughts &&
